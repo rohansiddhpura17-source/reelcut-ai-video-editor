@@ -1,0 +1,6780 @@
+{
+  "id": "00539f9c",
+  "name": "Viral Video Strategy Reel",
+  "createdAt": "2026-11-11T12:06:16.727095",
+  "updatedAt": "2026-11-11T12:06:56.255362",
+  "metadata": {
+    "filename": "00539f9c_talking_head_test.mp4",
+    "duration": 144.14,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "sizeBytes": 11753433,
+    "format": "mp4",
+    "hasAudio": true,
+    "thumbnailUrl": "/api/media/thumbnail/00539f9c_talking_head_test_thumb.jpg",
+    "videoUrl": "/api/media/video/00539f9c_talking_head_test.mp4"
+  },
+  "analysis": {
+    "duration": 144.14,
+    "silences": [
+      {
+        "id": "silence_1",
+        "start": 1.42,
+        "end": 2.24,
+        "duration": 0.81,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_2",
+        "start": 7.88,
+        "end": 11.2,
+        "duration": 3.31,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_3",
+        "start": 11.84,
+        "end": 12.64,
+        "duration": 0.8,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_4",
+        "start": 18.79,
+        "end": 21.84,
+        "duration": 3.04,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_5",
+        "start": 23.13,
+        "end": 23.95,
+        "duration": 0.83,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_6",
+        "start": 29.49,
+        "end": 32.92,
+        "duration": 3.42,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_7",
+        "start": 39.59,
+        "end": 43.06,
+        "duration": 3.48,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_8",
+        "start": 48.82,
+        "end": 49.72,
+        "duration": 0.91,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_9",
+        "start": 51.67,
+        "end": 54.85,
+        "duration": 3.18,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_10",
+        "start": 60.48,
+        "end": 63.95,
+        "duration": 3.46,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_11",
+        "start": 66.51,
+        "end": 67.29,
+        "duration": 0.77,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_12",
+        "start": 70.28,
+        "end": 75.06,
+        "duration": 4.78,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_13",
+        "start": 81.56,
+        "end": 84.79,
+        "duration": 3.23,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_14",
+        "start": 86.02,
+        "end": 86.89,
+        "duration": 0.88,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_15",
+        "start": 92.45,
+        "end": 95.7,
+        "duration": 3.25,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_16",
+        "start": 99.77,
+        "end": 100.65,
+        "duration": 0.88,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_17",
+        "start": 103.39,
+        "end": 106.52,
+        "duration": 3.13,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_18",
+        "start": 107.55,
+        "end": 108.38,
+        "duration": 0.83,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_19",
+        "start": 114.91,
+        "end": 118.18,
+        "duration": 3.27,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_20",
+        "start": 120.54,
+        "end": 121.34,
+        "duration": 0.81,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_21",
+        "start": 123.64,
+        "end": 126.76,
+        "duration": 3.11,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_22",
+        "start": 129.05,
+        "end": 129.89,
+        "duration": 0.85,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_23",
+        "start": 133.46,
+        "end": 136.72,
+        "duration": 3.26,
+        "suggestedAction": "cut"
+      },
+      {
+        "id": "silence_24",
+        "start": 137.78,
+        "end": 138.61,
+        "duration": 0.83,
+        "suggestedAction": "keep"
+      },
+      {
+        "id": "silence_25",
+        "start": 143.31,
+        "end": 144.14,
+        "duration": 0.82,
+        "suggestedAction": "keep"
+      }
+    ],
+    "fillers": [
+      {
+        "id": "filler_1",
+        "word": "actually",
+        "start": 7.6,
+        "end": 7.84,
+        "segmentId": "seg_2",
+        "confidence": 0.98
+      },
+      {
+        "id": "filler_2",
+        "word": "um,",
+        "start": 25.12,
+        "end": 25.54,
+        "segmentId": "seg_7",
+        "confidence": 0.61
+      },
+      {
+        "id": "filler_3",
+        "word": "basically",
+        "start": 38.91,
+        "end": 39.31,
+        "segmentId": "seg_9",
+        "confidence": 1.0
+      },
+      {
+        "id": "filler_4",
+        "word": "you know?",
+        "start": 36.03,
+        "end": 36.35,
+        "segmentId": "seg_9",
+        "confidence": 0.98
+      },
+      {
+        "id": "filler_5",
+        "word": "um,",
+        "start": 47.87,
+        "end": 48.13,
+        "segmentId": "seg_11",
+        "confidence": 0.79
+      },
+      {
+        "id": "filler_6",
+        "word": "uh,",
+        "start": 65.93,
+        "end": 65.93,
+        "segmentId": "seg_15",
+        "confidence": 0.89
+      },
+      {
+        "id": "filler_7",
+        "word": "um,",
+        "start": 102.22,
+        "end": 102.48,
+        "segmentId": "seg_22",
+        "confidence": 0.11
+      },
+      {
+        "id": "filler_8",
+        "word": "um,",
+        "start": 112.02,
+        "end": 112.22,
+        "segmentId": "seg_24",
+        "confidence": 0.67
+      },
+      {
+        "id": "filler_9",
+        "word": "uh,",
+        "start": 122.43,
+        "end": 122.53,
+        "segmentId": "seg_27",
+        "confidence": 0.91
+      },
+      {
+        "id": "filler_10",
+        "word": "actually",
+        "start": 132.96,
+        "end": 133.24,
+        "segmentId": "seg_29",
+        "confidence": 1.0
+      }
+    ],
+    "repetitions": [],
+    "transcript": [
+      {
+        "id": "seg_1",
+        "start": 0.0,
+        "end": 1.42,
+        "text": "Hey everyone, welcome back.",
+        "words": [
+          {
+            "id": "seg_1_w1",
+            "word": "Hey",
+            "start": 0.0,
+            "end": 0.32,
+            "confidence": 0.74,
+            "isFiller": false
+          },
+          {
+            "id": "seg_1_w2",
+            "word": "everyone,",
+            "start": 0.32,
+            "end": 0.68,
+            "confidence": 0.88,
+            "isFiller": false
+          },
+          {
+            "id": "seg_1_w3",
+            "word": "welcome",
+            "start": 1.14,
+            "end": 1.3,
+            "confidence": 0.96,
+            "isFiller": false
+          },
+          {
+            "id": "seg_1_w4",
+            "word": "back.",
+            "start": 1.3,
+            "end": 1.7,
+            "confidence": 1.0,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.89,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_2",
+        "start": 2.24,
+        "end": 7.88,
+        "text": "Today I want to talk about how I turn a long video into a short reel, and the three things that actually matter.",
+        "words": [
+          {
+            "id": "seg_2_w1",
+            "word": "Today",
+            "start": 2.26,
+            "end": 2.44,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w2",
+            "word": "I",
+            "start": 2.44,
+            "end": 2.56,
+            "confidence": 0.75,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w3",
+            "word": "want",
+            "start": 2.56,
+            "end": 2.74,
+            "confidence": 0.85,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w4",
+            "word": "to",
+            "start": 2.74,
+            "end": 2.8,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w5",
+            "word": "talk",
+            "start": 2.8,
+            "end": 3.0,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w6",
+            "word": "about",
+            "start": 3.0,
+            "end": 3.22,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w7",
+            "word": "how",
+            "start": 3.22,
+            "end": 3.44,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w8",
+            "word": "I",
+            "start": 3.44,
+            "end": 3.52,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w9",
+            "word": "turn",
+            "start": 3.52,
+            "end": 3.66,
+            "confidence": 0.82,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w10",
+            "word": "a",
+            "start": 3.66,
+            "end": 3.88,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w11",
+            "word": "long",
+            "start": 3.88,
+            "end": 4.16,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w12",
+            "word": "video",
+            "start": 4.16,
+            "end": 4.5,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w13",
+            "word": "into",
+            "start": 4.5,
+            "end": 4.74,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w14",
+            "word": "a",
+            "start": 4.74,
+            "end": 4.98,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w15",
+            "word": "short",
+            "start": 4.98,
+            "end": 5.22,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w16",
+            "word": "reel,",
+            "start": 5.22,
+            "end": 5.64,
+            "confidence": 0.83,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w17",
+            "word": "and",
+            "start": 6.02,
+            "end": 6.12,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w18",
+            "word": "the",
+            "start": 6.12,
+            "end": 6.66,
+            "confidence": 0.8,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w19",
+            "word": "three",
+            "start": 6.66,
+            "end": 6.92,
+            "confidence": 0.86,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w20",
+            "word": "things",
+            "start": 6.92,
+            "end": 7.22,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w21",
+            "word": "that",
+            "start": 7.22,
+            "end": 7.6,
+            "confidence": 0.96,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w22",
+            "word": "actually",
+            "start": 7.6,
+            "end": 7.84,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_2_w23",
+            "word": "matter.",
+            "start": 7.84,
+            "end": 8.3,
+            "confidence": 1.0,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.94,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_3",
+        "start": 11.2,
+        "end": 11.84,
+        "text": "First, the hook.",
+        "words": [
+          {
+            "id": "seg_3_w1",
+            "word": "First,",
+            "start": 11.22,
+            "end": 11.48,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_3_w2",
+            "word": "the",
+            "start": 11.74,
+            "end": 11.84,
+            "confidence": 0.9,
+            "isFiller": false
+          },
+          {
+            "id": "seg_3_w3",
+            "word": "hook.",
+            "start": 11.84,
+            "end": 12.12,
+            "confidence": 0.98,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.95,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_4",
+        "start": 12.64,
+        "end": 16.38,
+        "text": "You have about two seconds, so the first sentence has to earn the scroll.",
+        "words": [
+          {
+            "id": "seg_4_w1",
+            "word": "You",
+            "start": 12.68,
+            "end": 12.74,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w2",
+            "word": "have",
+            "start": 12.74,
+            "end": 12.9,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w3",
+            "word": "about",
+            "start": 12.9,
+            "end": 13.2,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w4",
+            "word": "two",
+            "start": 13.2,
+            "end": 13.54,
+            "confidence": 0.7,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w5",
+            "word": "seconds,",
+            "start": 13.54,
+            "end": 13.92,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w6",
+            "word": "so",
+            "start": 14.48,
+            "end": 14.52,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w7",
+            "word": "the",
+            "start": 14.52,
+            "end": 14.9,
+            "confidence": 0.78,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w8",
+            "word": "first",
+            "start": 14.9,
+            "end": 15.18,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w9",
+            "word": "sentence",
+            "start": 15.18,
+            "end": 15.42,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w10",
+            "word": "has",
+            "start": 15.42,
+            "end": 15.72,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w11",
+            "word": "to",
+            "start": 15.72,
+            "end": 15.84,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w12",
+            "word": "earn",
+            "start": 15.84,
+            "end": 16.02,
+            "confidence": 0.96,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w13",
+            "word": "the",
+            "start": 16.02,
+            "end": 16.3,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_4_w14",
+            "word": "scroll.",
+            "start": 16.3,
+            "end": 16.56,
+            "confidence": 0.99,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.95,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_5",
+        "start": 17.0,
+        "end": 18.79,
+        "text": "If it doesn't, nothing else matters.",
+        "words": [
+          {
+            "id": "seg_5_w1",
+            "word": "If",
+            "start": 17.0,
+            "end": 17.1,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_5_w2",
+            "word": "it",
+            "start": 17.1,
+            "end": 17.26,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_5_w3",
+            "word": "doesn't,",
+            "start": 17.26,
+            "end": 17.8,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_5_w4",
+            "word": "nothing",
+            "start": 17.94,
+            "end": 18.16,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_5_w5",
+            "word": "else",
+            "start": 18.16,
+            "end": 18.44,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_5_w6",
+            "word": "matters.",
+            "start": 18.44,
+            "end": 18.78,
+            "confidence": 1.0,
+            "isFiller": false
+          }
+        ],
+        "confidence": 1.0,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_6",
+        "start": 21.84,
+        "end": 23.13,
+        "text": "Second, cut the dead air.",
+        "words": [
+          {
+            "id": "seg_6_w1",
+            "word": "Second,",
+            "start": 21.98,
+            "end": 22.2,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_6_w2",
+            "word": "cut",
+            "start": 22.6,
+            "end": 22.78,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_6_w3",
+            "word": "the",
+            "start": 22.78,
+            "end": 22.98,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_6_w4",
+            "word": "dead",
+            "start": 22.98,
+            "end": 23.14,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_6_w5",
+            "word": "air.",
+            "start": 23.14,
+            "end": 23.42,
+            "confidence": 0.87,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.96,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_7",
+        "start": 23.95,
+        "end": 29.49,
+        "text": "Every pause, every um, every time you restart a sentence, that is time your viewer is already leaving.",
+        "words": [
+          {
+            "id": "seg_7_w1",
+            "word": "Every",
+            "start": 24.04,
+            "end": 24.18,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w2",
+            "word": "pause,",
+            "start": 24.18,
+            "end": 24.72,
+            "confidence": 0.95,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w3",
+            "word": "every",
+            "start": 24.84,
+            "end": 25.12,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w4",
+            "word": "um,",
+            "start": 25.12,
+            "end": 25.54,
+            "confidence": 0.61,
+            "isFiller": true
+          },
+          {
+            "id": "seg_7_w5",
+            "word": "every",
+            "start": 25.84,
+            "end": 26.04,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w6",
+            "word": "time",
+            "start": 26.04,
+            "end": 26.26,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w7",
+            "word": "you",
+            "start": 26.26,
+            "end": 26.5,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w8",
+            "word": "restart",
+            "start": 26.5,
+            "end": 26.76,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w9",
+            "word": "a",
+            "start": 26.76,
+            "end": 27.06,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w10",
+            "word": "sentence,",
+            "start": 27.06,
+            "end": 27.36,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w11",
+            "word": "that",
+            "start": 27.78,
+            "end": 27.9,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w12",
+            "word": "is",
+            "start": 27.9,
+            "end": 28.08,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w13",
+            "word": "time",
+            "start": 28.08,
+            "end": 28.34,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w14",
+            "word": "your",
+            "start": 28.34,
+            "end": 28.52,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w15",
+            "word": "viewer",
+            "start": 28.52,
+            "end": 28.76,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w16",
+            "word": "is",
+            "start": 28.76,
+            "end": 29.14,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w17",
+            "word": "already",
+            "start": 29.14,
+            "end": 29.4,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_7_w18",
+            "word": "leaving.",
+            "start": 29.4,
+            "end": 29.8,
+            "confidence": 0.99,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.96,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_8",
+        "start": 32.92,
+        "end": 34.1,
+        "text": "Third, captions.",
+        "words": [
+          {
+            "id": "seg_8_w1",
+            "word": "Third,",
+            "start": 32.89,
+            "end": 33.19,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_8_w2",
+            "word": "captions.",
+            "start": 33.69,
+            "end": 34.05,
+            "confidence": 0.99,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.98,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_9",
+        "start": 34.71,
+        "end": 39.59,
+        "text": "Most people watch on mute, you know? So if the words are not on screen, the video is basically silent",
+        "words": [
+          {
+            "id": "seg_9_w1",
+            "word": "Most",
+            "start": 34.75,
+            "end": 34.93,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w2",
+            "word": "people",
+            "start": 34.93,
+            "end": 35.19,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w3",
+            "word": "watch",
+            "start": 35.19,
+            "end": 35.41,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w4",
+            "word": "on",
+            "start": 35.41,
+            "end": 35.63,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w5",
+            "word": "mute,",
+            "start": 35.63,
+            "end": 35.87,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w6",
+            "word": "you",
+            "start": 36.03,
+            "end": 36.03,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w7",
+            "word": "know?",
+            "start": 36.03,
+            "end": 36.35,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w8",
+            "word": "So",
+            "start": 36.35,
+            "end": 36.69,
+            "confidence": 0.48,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w9",
+            "word": "if",
+            "start": 36.69,
+            "end": 36.81,
+            "confidence": 0.85,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w10",
+            "word": "the",
+            "start": 36.81,
+            "end": 36.97,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w11",
+            "word": "words",
+            "start": 36.97,
+            "end": 37.15,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w12",
+            "word": "are",
+            "start": 37.15,
+            "end": 37.35,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w13",
+            "word": "not",
+            "start": 37.35,
+            "end": 37.43,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w14",
+            "word": "on",
+            "start": 37.43,
+            "end": 37.67,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w15",
+            "word": "screen,",
+            "start": 37.67,
+            "end": 38.01,
+            "confidence": 0.9,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w16",
+            "word": "the",
+            "start": 38.33,
+            "end": 38.47,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w17",
+            "word": "video",
+            "start": 38.47,
+            "end": 38.67,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w18",
+            "word": "is",
+            "start": 38.67,
+            "end": 38.91,
+            "confidence": 0.96,
+            "isFiller": false
+          },
+          {
+            "id": "seg_9_w19",
+            "word": "basically",
+            "start": 38.91,
+            "end": 39.31,
+            "confidence": 1.0,
+            "isFiller": true
+          },
+          {
+            "id": "seg_9_w20",
+            "word": "silent",
+            "start": 39.31,
+            "end": 39.69,
+            "confidence": 0.99,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.95,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_10",
+        "start": 43.06,
+        "end": 46.49,
+        "text": "Now the part nobody likes. Watching your own footage back.",
+        "words": [
+          {
+            "id": "seg_10_w1",
+            "word": "Now",
+            "start": 43.23,
+            "end": 43.31,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_10_w2",
+            "word": "the",
+            "start": 43.31,
+            "end": 43.51,
+            "confidence": 0.86,
+            "isFiller": false
+          },
+          {
+            "id": "seg_10_w3",
+            "word": "part",
+            "start": 43.51,
+            "end": 43.73,
+            "confidence": 0.95,
+            "isFiller": false
+          },
+          {
+            "id": "seg_10_w4",
+            "word": "nobody",
+            "start": 43.73,
+            "end": 44.07,
+            "confidence": 0.94,
+            "isFiller": false
+          },
+          {
+            "id": "seg_10_w5",
+            "word": "likes.",
+            "start": 44.07,
+            "end": 44.65,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_10_w6",
+            "word": "Watching",
+            "start": 45.09,
+            "end": 45.31,
+            "confidence": 0.94,
+            "isFiller": false
+          },
+          {
+            "id": "seg_10_w7",
+            "word": "your",
+            "start": 45.31,
+            "end": 45.61,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_10_w8",
+            "word": "own",
+            "start": 45.61,
+            "end": 45.87,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_10_w9",
+            "word": "footage",
+            "start": 45.87,
+            "end": 46.11,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_10_w10",
+            "word": "back.",
+            "start": 46.11,
+            "end": 46.75,
+            "confidence": 0.99,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.96,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_11",
+        "start": 47.2,
+        "end": 48.07,
+        "text": "It is, um,",
+        "words": [
+          {
+            "id": "seg_11_w1",
+            "word": "It",
+            "start": 47.27,
+            "end": 47.29,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_11_w2",
+            "word": "is,",
+            "start": 47.29,
+            "end": 47.87,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_11_w3",
+            "word": "um,",
+            "start": 47.87,
+            "end": 48.13,
+            "confidence": 0.79,
+            "isFiller": true
+          }
+        ],
+        "confidence": 0.92,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_12",
+        "start": 49.72,
+        "end": 51.67,
+        "text": "but it is the only way to find the boring bits.",
+        "words": [
+          {
+            "id": "seg_12_w1",
+            "word": "but",
+            "start": 49.75,
+            "end": 49.85,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_12_w2",
+            "word": "it",
+            "start": 49.85,
+            "end": 49.97,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_12_w3",
+            "word": "is",
+            "start": 49.97,
+            "end": 50.09,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_12_w4",
+            "word": "the",
+            "start": 50.09,
+            "end": 50.33,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_12_w5",
+            "word": "only",
+            "start": 50.33,
+            "end": 50.49,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_12_w6",
+            "word": "way",
+            "start": 50.49,
+            "end": 50.65,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_12_w7",
+            "word": "to",
+            "start": 50.65,
+            "end": 50.79,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_12_w8",
+            "word": "find",
+            "start": 50.79,
+            "end": 50.97,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_12_w9",
+            "word": "the",
+            "start": 50.97,
+            "end": 51.19,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_12_w10",
+            "word": "boring",
+            "start": 51.19,
+            "end": 51.33,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_12_w11",
+            "word": "bits.",
+            "start": 51.33,
+            "end": 51.83,
+            "confidence": 0.98,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.99,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_13",
+        "start": 54.85,
+        "end": 57.93,
+        "text": "I usually watch it once at normal speed, then once at double speed,",
+        "words": [
+          {
+            "id": "seg_13_w1",
+            "word": "I",
+            "start": 54.9,
+            "end": 54.94,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w2",
+            "word": "usually",
+            "start": 54.94,
+            "end": 55.18,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w3",
+            "word": "watch",
+            "start": 55.18,
+            "end": 55.48,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w4",
+            "word": "it",
+            "start": 55.48,
+            "end": 55.72,
+            "confidence": 0.96,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w5",
+            "word": "once",
+            "start": 55.72,
+            "end": 55.88,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w6",
+            "word": "at",
+            "start": 55.88,
+            "end": 56.06,
+            "confidence": 0.77,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w7",
+            "word": "normal",
+            "start": 56.06,
+            "end": 56.34,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w8",
+            "word": "speed,",
+            "start": 56.34,
+            "end": 56.76,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w9",
+            "word": "then",
+            "start": 57.16,
+            "end": 57.26,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w10",
+            "word": "once",
+            "start": 57.26,
+            "end": 57.46,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w11",
+            "word": "at",
+            "start": 57.46,
+            "end": 57.58,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w12",
+            "word": "double",
+            "start": 57.58,
+            "end": 57.8,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_13_w13",
+            "word": "speed,",
+            "start": 57.8,
+            "end": 58.24,
+            "confidence": 0.99,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.97,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_14",
+        "start": 58.55,
+        "end": 60.48,
+        "text": "and I mark every moment I feel my attention drift.",
+        "words": [
+          {
+            "id": "seg_14_w1",
+            "word": "and",
+            "start": 58.54,
+            "end": 58.7,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_14_w2",
+            "word": "I",
+            "start": 58.7,
+            "end": 58.8,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_14_w3",
+            "word": "mark",
+            "start": 58.8,
+            "end": 58.98,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_14_w4",
+            "word": "every",
+            "start": 58.98,
+            "end": 59.34,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_14_w5",
+            "word": "moment",
+            "start": 59.34,
+            "end": 59.62,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_14_w6",
+            "word": "I",
+            "start": 59.62,
+            "end": 59.84,
+            "confidence": 0.94,
+            "isFiller": false
+          },
+          {
+            "id": "seg_14_w7",
+            "word": "feel",
+            "start": 59.84,
+            "end": 60.0,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_14_w8",
+            "word": "my",
+            "start": 60.0,
+            "end": 60.18,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_14_w9",
+            "word": "attention",
+            "start": 60.18,
+            "end": 60.46,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_14_w10",
+            "word": "drift.",
+            "start": 60.46,
+            "end": 60.98,
+            "confidence": 0.96,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.98,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_15",
+        "start": 63.95,
+        "end": 66.51,
+        "text": "Then I cut those moments out, and, uh, I check the length again.",
+        "words": [
+          {
+            "id": "seg_15_w1",
+            "word": "Then",
+            "start": 63.91,
+            "end": 64.09,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w2",
+            "word": "I",
+            "start": 64.09,
+            "end": 64.23,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w3",
+            "word": "cut",
+            "start": 64.23,
+            "end": 64.31,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w4",
+            "word": "those",
+            "start": 64.31,
+            "end": 64.51,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w5",
+            "word": "moments",
+            "start": 64.51,
+            "end": 64.81,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w6",
+            "word": "out,",
+            "start": 64.81,
+            "end": 65.29,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w7",
+            "word": "and,",
+            "start": 65.29,
+            "end": 65.83,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w8",
+            "word": "uh,",
+            "start": 65.93,
+            "end": 65.93,
+            "confidence": 0.89,
+            "isFiller": true
+          },
+          {
+            "id": "seg_15_w9",
+            "word": "I",
+            "start": 65.93,
+            "end": 65.93,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w10",
+            "word": "check",
+            "start": 65.93,
+            "end": 66.07,
+            "confidence": 0.94,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w11",
+            "word": "the",
+            "start": 66.07,
+            "end": 66.25,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w12",
+            "word": "length",
+            "start": 66.25,
+            "end": 66.37,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_15_w13",
+            "word": "again.",
+            "start": 66.37,
+            "end": 66.83,
+            "confidence": 0.99,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.98,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_16",
+        "start": 67.29,
+        "end": 70.28,
+        "text": "If it is still over 60 seconds, I cut the weakest idea completely.",
+        "words": [
+          {
+            "id": "seg_16_w1",
+            "word": "If",
+            "start": 67.27,
+            "end": 67.41,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w2",
+            "word": "it",
+            "start": 67.41,
+            "end": 67.57,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w3",
+            "word": "is",
+            "start": 67.57,
+            "end": 67.63,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w4",
+            "word": "still",
+            "start": 67.63,
+            "end": 67.85,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w5",
+            "word": "over",
+            "start": 67.85,
+            "end": 68.03,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w6",
+            "word": "60",
+            "start": 68.03,
+            "end": 68.29,
+            "confidence": 0.94,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w7",
+            "word": "seconds,",
+            "start": 68.29,
+            "end": 68.77,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w8",
+            "word": "I",
+            "start": 68.97,
+            "end": 69.07,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w9",
+            "word": "cut",
+            "start": 69.07,
+            "end": 69.21,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w10",
+            "word": "the",
+            "start": 69.21,
+            "end": 69.45,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w11",
+            "word": "weakest",
+            "start": 69.45,
+            "end": 69.67,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w12",
+            "word": "idea",
+            "start": 69.67,
+            "end": 70.01,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_16_w13",
+            "word": "completely.",
+            "start": 70.01,
+            "end": 70.53,
+            "confidence": 0.98,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.99,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_17",
+        "start": 75.06,
+        "end": 75.81,
+        "text": "Framing matters too.",
+        "words": [
+          {
+            "id": "seg_17_w1",
+            "word": "Framing",
+            "start": 75.13,
+            "end": 75.27,
+            "confidence": 0.88,
+            "isFiller": false
+          },
+          {
+            "id": "seg_17_w2",
+            "word": "matters",
+            "start": 75.27,
+            "end": 75.65,
+            "confidence": 0.93,
+            "isFiller": false
+          },
+          {
+            "id": "seg_17_w3",
+            "word": "too.",
+            "start": 75.65,
+            "end": 76.21,
+            "confidence": 0.65,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.82,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_18",
+        "start": 76.46,
+        "end": 81.56,
+        "text": "A horizontal video cropped badly will cut off your chin or your hands, so you have to keep your face in the center.",
+        "words": [
+          {
+            "id": "seg_18_w1",
+            "word": "A",
+            "start": 76.45,
+            "end": 76.61,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w2",
+            "word": "horizontal",
+            "start": 76.61,
+            "end": 76.95,
+            "confidence": 0.95,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w3",
+            "word": "video",
+            "start": 76.95,
+            "end": 77.33,
+            "confidence": 0.15,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w4",
+            "word": "cropped",
+            "start": 77.33,
+            "end": 77.71,
+            "confidence": 0.87,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w5",
+            "word": "badly",
+            "start": 77.71,
+            "end": 78.11,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w6",
+            "word": "will",
+            "start": 78.11,
+            "end": 78.47,
+            "confidence": 0.61,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w7",
+            "word": "cut",
+            "start": 78.47,
+            "end": 78.57,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w8",
+            "word": "off",
+            "start": 78.57,
+            "end": 78.81,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w9",
+            "word": "your",
+            "start": 78.81,
+            "end": 79.01,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w10",
+            "word": "chin",
+            "start": 79.01,
+            "end": 79.15,
+            "confidence": 0.94,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w11",
+            "word": "or",
+            "start": 79.15,
+            "end": 79.35,
+            "confidence": 0.96,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w12",
+            "word": "your",
+            "start": 79.35,
+            "end": 79.53,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w13",
+            "word": "hands,",
+            "start": 79.53,
+            "end": 80.07,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w14",
+            "word": "so",
+            "start": 80.35,
+            "end": 80.45,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w15",
+            "word": "you",
+            "start": 80.45,
+            "end": 80.49,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w16",
+            "word": "have",
+            "start": 80.49,
+            "end": 80.63,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w17",
+            "word": "to",
+            "start": 80.63,
+            "end": 80.71,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w18",
+            "word": "keep",
+            "start": 80.71,
+            "end": 80.91,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w19",
+            "word": "your",
+            "start": 80.91,
+            "end": 81.11,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w20",
+            "word": "face",
+            "start": 81.11,
+            "end": 81.31,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w21",
+            "word": "in",
+            "start": 81.31,
+            "end": 81.51,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w22",
+            "word": "the",
+            "start": 81.51,
+            "end": 81.55,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_18_w23",
+            "word": "center.",
+            "start": 81.55,
+            "end": 81.85,
+            "confidence": 0.97,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.92,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_19",
+        "start": 84.79,
+        "end": 86.02,
+        "text": "And finally, the title card.",
+        "words": [
+          {
+            "id": "seg_19_w1",
+            "word": "And",
+            "start": 84.96,
+            "end": 85.0,
+            "confidence": 0.84,
+            "isFiller": false
+          },
+          {
+            "id": "seg_19_w2",
+            "word": "finally,",
+            "start": 85.0,
+            "end": 85.32,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_19_w3",
+            "word": "the",
+            "start": 85.64,
+            "end": 85.74,
+            "confidence": 0.95,
+            "isFiller": false
+          },
+          {
+            "id": "seg_19_w4",
+            "word": "title",
+            "start": 85.74,
+            "end": 85.94,
+            "confidence": 0.91,
+            "isFiller": false
+          },
+          {
+            "id": "seg_19_w5",
+            "word": "card.",
+            "start": 85.94,
+            "end": 86.28,
+            "confidence": 0.94,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.93,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_20",
+        "start": 86.89,
+        "end": 92.45,
+        "text": "Two seconds, big text, one promise. If the promise is clear, people stay to see if you keep",
+        "words": [
+          {
+            "id": "seg_20_w1",
+            "word": "Two",
+            "start": 87.04,
+            "end": 87.06,
+            "confidence": 0.75,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w2",
+            "word": "seconds,",
+            "start": 87.06,
+            "end": 87.48,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w3",
+            "word": "big",
+            "start": 87.86,
+            "end": 88.02,
+            "confidence": 0.57,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w4",
+            "word": "text,",
+            "start": 88.02,
+            "end": 88.42,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w5",
+            "word": "one",
+            "start": 88.84,
+            "end": 88.96,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w6",
+            "word": "promise.",
+            "start": 88.96,
+            "end": 89.38,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w7",
+            "word": "If",
+            "start": 89.98,
+            "end": 90.08,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w8",
+            "word": "the",
+            "start": 90.08,
+            "end": 90.24,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w9",
+            "word": "promise",
+            "start": 90.24,
+            "end": 90.42,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w10",
+            "word": "is",
+            "start": 90.42,
+            "end": 90.7,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w11",
+            "word": "clear,",
+            "start": 90.7,
+            "end": 90.98,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w12",
+            "word": "people",
+            "start": 91.38,
+            "end": 91.58,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w13",
+            "word": "stay",
+            "start": 91.58,
+            "end": 91.86,
+            "confidence": 0.9,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w14",
+            "word": "to",
+            "start": 91.86,
+            "end": 92.02,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w15",
+            "word": "see",
+            "start": 92.02,
+            "end": 92.18,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w16",
+            "word": "if",
+            "start": 92.18,
+            "end": 92.28,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w17",
+            "word": "you",
+            "start": 92.28,
+            "end": 92.38,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_20_w18",
+            "word": "keep",
+            "start": 92.38,
+            "end": 92.56,
+            "confidence": 0.99,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.95,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_21",
+        "start": 95.7,
+        "end": 99.77,
+        "text": "So that is the whole process. Hook, cut, captions, framing, title card.",
+        "words": [
+          {
+            "id": "seg_21_w1",
+            "word": "So",
+            "start": 95.72,
+            "end": 95.84,
+            "confidence": 0.96,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w2",
+            "word": "that",
+            "start": 95.84,
+            "end": 95.98,
+            "confidence": 0.92,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w3",
+            "word": "is",
+            "start": 95.98,
+            "end": 96.12,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w4",
+            "word": "the",
+            "start": 96.12,
+            "end": 96.22,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w5",
+            "word": "whole",
+            "start": 96.22,
+            "end": 96.42,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w6",
+            "word": "process.",
+            "start": 96.42,
+            "end": 96.88,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w7",
+            "word": "Hook,",
+            "start": 97.36,
+            "end": 97.54,
+            "confidence": 0.89,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w8",
+            "word": "cut,",
+            "start": 97.86,
+            "end": 98.1,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w9",
+            "word": "captions,",
+            "start": 98.7,
+            "end": 98.7,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w10",
+            "word": "framing,",
+            "start": 99.04,
+            "end": 99.22,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w11",
+            "word": "title",
+            "start": 99.58,
+            "end": 99.7,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_21_w12",
+            "word": "card.",
+            "start": 99.7,
+            "end": 100.18,
+            "confidence": 0.98,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.97,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_22",
+        "start": 100.65,
+        "end": 103.39,
+        "text": "Try it on your next video, and um, let me know how it goes.",
+        "words": [
+          {
+            "id": "seg_22_w1",
+            "word": "Try",
+            "start": 100.76,
+            "end": 100.8,
+            "confidence": 0.95,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w2",
+            "word": "it",
+            "start": 100.8,
+            "end": 100.94,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w3",
+            "word": "on",
+            "start": 100.94,
+            "end": 100.96,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w4",
+            "word": "your",
+            "start": 100.96,
+            "end": 101.12,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w5",
+            "word": "next",
+            "start": 101.12,
+            "end": 101.3,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w6",
+            "word": "video,",
+            "start": 101.3,
+            "end": 101.74,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w7",
+            "word": "and",
+            "start": 102.22,
+            "end": 102.22,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w8",
+            "word": "um,",
+            "start": 102.22,
+            "end": 102.48,
+            "confidence": 0.11,
+            "isFiller": true
+          },
+          {
+            "id": "seg_22_w9",
+            "word": "let",
+            "start": 102.66,
+            "end": 102.78,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w10",
+            "word": "me",
+            "start": 102.78,
+            "end": 102.8,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w11",
+            "word": "know",
+            "start": 102.8,
+            "end": 102.9,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w12",
+            "word": "how",
+            "start": 102.9,
+            "end": 103.02,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w13",
+            "word": "it",
+            "start": 103.02,
+            "end": 103.12,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_22_w14",
+            "word": "goes.",
+            "start": 103.12,
+            "end": 103.48,
+            "confidence": 0.99,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.93,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_23",
+        "start": 106.52,
+        "end": 107.55,
+        "text": "One more thing, the audio.",
+        "words": [
+          {
+            "id": "seg_23_w1",
+            "word": "One",
+            "start": 106.6,
+            "end": 106.7,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_23_w2",
+            "word": "more",
+            "start": 106.7,
+            "end": 106.84,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_23_w3",
+            "word": "thing,",
+            "start": 106.84,
+            "end": 107.12,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_23_w4",
+            "word": "the",
+            "start": 107.28,
+            "end": 107.44,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_23_w5",
+            "word": "audio.",
+            "start": 107.44,
+            "end": 107.74,
+            "confidence": 0.98,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.99,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_24",
+        "start": 108.38,
+        "end": 112.12,
+        "text": "audio will kill a good video faster than bad lighting, so, um,",
+        "words": [
+          {
+            "id": "seg_24_w1",
+            "word": "audio",
+            "start": 108.56,
+            "end": 108.98,
+            "confidence": 0.77,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w2",
+            "word": "will",
+            "start": 108.98,
+            "end": 109.26,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w3",
+            "word": "kill",
+            "start": 109.26,
+            "end": 109.38,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w4",
+            "word": "a",
+            "start": 109.38,
+            "end": 109.54,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w5",
+            "word": "good",
+            "start": 109.54,
+            "end": 109.72,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w6",
+            "word": "video",
+            "start": 109.72,
+            "end": 110.06,
+            "confidence": 0.95,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w7",
+            "word": "faster",
+            "start": 110.06,
+            "end": 110.42,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w8",
+            "word": "than",
+            "start": 110.42,
+            "end": 110.66,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w9",
+            "word": "bad",
+            "start": 110.66,
+            "end": 110.86,
+            "confidence": 0.96,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w10",
+            "word": "lighting,",
+            "start": 110.86,
+            "end": 111.26,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w11",
+            "word": "so,",
+            "start": 111.86,
+            "end": 112.0,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_24_w12",
+            "word": "um,",
+            "start": 112.02,
+            "end": 112.22,
+            "confidence": 0.67,
+            "isFiller": true
+          }
+        ],
+        "confidence": 0.94,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_25",
+        "start": 112.73,
+        "end": 114.91,
+        "text": "record somewhere quiet and close to the microphone.",
+        "words": [
+          {
+            "id": "seg_25_w1",
+            "word": "record",
+            "start": 112.9,
+            "end": 113.0,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_25_w2",
+            "word": "somewhere",
+            "start": 113.0,
+            "end": 113.42,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_25_w3",
+            "word": "quiet",
+            "start": 113.42,
+            "end": 113.88,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_25_w4",
+            "word": "and",
+            "start": 113.88,
+            "end": 114.22,
+            "confidence": 0.93,
+            "isFiller": false
+          },
+          {
+            "id": "seg_25_w5",
+            "word": "close",
+            "start": 114.22,
+            "end": 114.42,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_25_w6",
+            "word": "to",
+            "start": 114.42,
+            "end": 114.6,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_25_w7",
+            "word": "the",
+            "start": 114.6,
+            "end": 114.7,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_25_w8",
+            "word": "microphone.",
+            "start": 114.7,
+            "end": 115.12,
+            "confidence": 0.99,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.98,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_26",
+        "start": 118.18,
+        "end": 120.54,
+        "text": "If you hear echo in your room, hang a blanket behind",
+        "words": [
+          {
+            "id": "seg_26_w1",
+            "word": "If",
+            "start": 118.25,
+            "end": 118.31,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_26_w2",
+            "word": "you",
+            "start": 118.31,
+            "end": 118.41,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_26_w3",
+            "word": "hear",
+            "start": 118.41,
+            "end": 118.65,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_26_w4",
+            "word": "echo",
+            "start": 118.65,
+            "end": 118.89,
+            "confidence": 0.68,
+            "isFiller": false
+          },
+          {
+            "id": "seg_26_w5",
+            "word": "in",
+            "start": 118.89,
+            "end": 119.03,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_26_w6",
+            "word": "your",
+            "start": 119.03,
+            "end": 119.21,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_26_w7",
+            "word": "room,",
+            "start": 119.21,
+            "end": 119.57,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_26_w8",
+            "word": "hang",
+            "start": 119.81,
+            "end": 119.89,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_26_w9",
+            "word": "a",
+            "start": 119.89,
+            "end": 120.05,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_26_w10",
+            "word": "blanket",
+            "start": 120.05,
+            "end": 120.31,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_26_w11",
+            "word": "behind",
+            "start": 120.31,
+            "end": 120.63,
+            "confidence": 1.0,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.96,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_27",
+        "start": 121.34,
+        "end": 123.64,
+        "text": "It looks silly, but, uh, it genuinely works.",
+        "words": [
+          {
+            "id": "seg_27_w1",
+            "word": "It",
+            "start": 121.35,
+            "end": 121.47,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_27_w2",
+            "word": "looks",
+            "start": 121.47,
+            "end": 121.71,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_27_w3",
+            "word": "silly,",
+            "start": 121.71,
+            "end": 122.01,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_27_w4",
+            "word": "but,",
+            "start": 122.43,
+            "end": 122.43,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_27_w5",
+            "word": "uh,",
+            "start": 122.43,
+            "end": 122.53,
+            "confidence": 0.91,
+            "isFiller": true
+          },
+          {
+            "id": "seg_27_w6",
+            "word": "it",
+            "start": 122.59,
+            "end": 122.95,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_27_w7",
+            "word": "genuinely",
+            "start": 122.95,
+            "end": 123.21,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_27_w8",
+            "word": "works.",
+            "start": 123.21,
+            "end": 123.75,
+            "confidence": 1.0,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.98,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_28",
+        "start": 126.76,
+        "end": 129.05,
+        "text": "And do not chase trends you do not understand.",
+        "words": [
+          {
+            "id": "seg_28_w1",
+            "word": "And",
+            "start": 126.8,
+            "end": 126.92,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_28_w2",
+            "word": "do",
+            "start": 126.92,
+            "end": 127.04,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_28_w3",
+            "word": "not",
+            "start": 127.04,
+            "end": 127.38,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_28_w4",
+            "word": "chase",
+            "start": 127.38,
+            "end": 127.66,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_28_w5",
+            "word": "trends",
+            "start": 127.66,
+            "end": 128.08,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_28_w6",
+            "word": "you",
+            "start": 128.08,
+            "end": 128.32,
+            "confidence": 0.85,
+            "isFiller": false
+          },
+          {
+            "id": "seg_28_w7",
+            "word": "do",
+            "start": 128.32,
+            "end": 128.52,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_28_w8",
+            "word": "not",
+            "start": 128.52,
+            "end": 128.74,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_28_w9",
+            "word": "understand.",
+            "start": 128.74,
+            "end": 129.26,
+            "confidence": 1.0,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.97,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_29",
+        "start": 129.89,
+        "end": 133.46,
+        "text": "A format that works for someone else might not fit what you are actually good",
+        "words": [
+          {
+            "id": "seg_29_w1",
+            "word": "A",
+            "start": 129.98,
+            "end": 130.06,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w2",
+            "word": "format",
+            "start": 130.06,
+            "end": 130.32,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w3",
+            "word": "that",
+            "start": 130.32,
+            "end": 130.56,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w4",
+            "word": "works",
+            "start": 130.56,
+            "end": 130.8,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w5",
+            "word": "for",
+            "start": 130.8,
+            "end": 131.02,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w6",
+            "word": "someone",
+            "start": 131.02,
+            "end": 131.2,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w7",
+            "word": "else",
+            "start": 131.2,
+            "end": 131.62,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w8",
+            "word": "might",
+            "start": 131.62,
+            "end": 131.94,
+            "confidence": 0.67,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w9",
+            "word": "not",
+            "start": 131.94,
+            "end": 132.26,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w10",
+            "word": "fit",
+            "start": 132.26,
+            "end": 132.42,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w11",
+            "word": "what",
+            "start": 132.42,
+            "end": 132.66,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w12",
+            "word": "you",
+            "start": 132.66,
+            "end": 132.76,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w13",
+            "word": "are",
+            "start": 132.76,
+            "end": 132.96,
+            "confidence": 0.68,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w14",
+            "word": "actually",
+            "start": 132.96,
+            "end": 133.24,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_29_w15",
+            "word": "good",
+            "start": 133.24,
+            "end": 133.56,
+            "confidence": 1.0,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.95,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_30",
+        "start": 136.72,
+        "end": 137.78,
+        "text": "Right? That is everything.",
+        "words": [
+          {
+            "id": "seg_30_w1",
+            "word": "Right?",
+            "start": 136.78,
+            "end": 136.98,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_30_w2",
+            "word": "That",
+            "start": 137.34,
+            "end": 137.5,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_30_w3",
+            "word": "is",
+            "start": 137.5,
+            "end": 137.7,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_30_w4",
+            "word": "everything.",
+            "start": 137.7,
+            "end": 138.12,
+            "confidence": 1.0,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.99,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      },
+      {
+        "id": "seg_31",
+        "start": 138.61,
+        "end": 143.31,
+        "text": "Go shoot something, cut it down, and see what survives. The edit is where the video is really",
+        "words": [
+          {
+            "id": "seg_31_w1",
+            "word": "Go",
+            "start": 138.64,
+            "end": 138.8,
+            "confidence": 0.88,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w2",
+            "word": "shoot",
+            "start": 138.8,
+            "end": 139.0,
+            "confidence": 0.97,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w3",
+            "word": "something,",
+            "start": 139.0,
+            "end": 139.36,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w4",
+            "word": "cut",
+            "start": 139.66,
+            "end": 139.72,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w5",
+            "word": "it",
+            "start": 139.72,
+            "end": 139.94,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w6",
+            "word": "down,",
+            "start": 139.94,
+            "end": 140.22,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w7",
+            "word": "and",
+            "start": 140.38,
+            "end": 140.52,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w8",
+            "word": "see",
+            "start": 140.52,
+            "end": 140.64,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w9",
+            "word": "what",
+            "start": 140.64,
+            "end": 140.76,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w10",
+            "word": "survives.",
+            "start": 140.76,
+            "end": 141.2,
+            "confidence": 0.98,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w11",
+            "word": "The",
+            "start": 141.78,
+            "end": 141.98,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w12",
+            "word": "edit",
+            "start": 141.98,
+            "end": 142.16,
+            "confidence": 0.9,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w13",
+            "word": "is",
+            "start": 142.16,
+            "end": 142.42,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w14",
+            "word": "where",
+            "start": 142.42,
+            "end": 142.54,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w15",
+            "word": "the",
+            "start": 142.54,
+            "end": 142.7,
+            "confidence": 0.99,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w16",
+            "word": "video",
+            "start": 142.7,
+            "end": 142.88,
+            "confidence": 1.0,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w17",
+            "word": "is",
+            "start": 142.88,
+            "end": 143.16,
+            "confidence": 0.88,
+            "isFiller": false
+          },
+          {
+            "id": "seg_31_w18",
+            "word": "really",
+            "start": 143.16,
+            "end": 143.4,
+            "confidence": 1.0,
+            "isFiller": false
+          }
+        ],
+        "confidence": 0.98,
+        "isKept": true,
+        "category": "speech",
+        "speaker": "Speaker 1"
+      }
+    ],
+    "speechDuration": 90.2,
+    "silenceDuration": 53.94,
+    "estimatedSavingSeconds": 46.5,
+    "transcriptionAvailable": true,
+    "transcriptionError": null
+  },
+  "editPlan": {
+    "projectId": "00539f9c",
+    "suggestions": [
+      {
+        "id": "sug_1",
+        "type": "silence",
+        "startTime": 7.88,
+        "endTime": 11.2,
+        "duration": 3.31,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.31s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_2",
+        "type": "silence",
+        "startTime": 18.79,
+        "endTime": 21.84,
+        "duration": 3.04,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.04s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_3",
+        "type": "silence",
+        "startTime": 29.49,
+        "endTime": 32.92,
+        "duration": 3.42,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.42s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_4",
+        "type": "silence",
+        "startTime": 39.59,
+        "endTime": 43.06,
+        "duration": 3.48,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.48s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_5",
+        "type": "silence",
+        "startTime": 51.67,
+        "endTime": 54.85,
+        "duration": 3.18,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.18s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_6",
+        "type": "silence",
+        "startTime": 60.48,
+        "endTime": 63.95,
+        "duration": 3.46,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.46s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_7",
+        "type": "silence",
+        "startTime": 70.28,
+        "endTime": 75.06,
+        "duration": 4.78,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 4.78s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_8",
+        "type": "silence",
+        "startTime": 81.56,
+        "endTime": 84.79,
+        "duration": 3.23,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.23s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_9",
+        "type": "silence",
+        "startTime": 92.45,
+        "endTime": 95.7,
+        "duration": 3.25,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.25s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_10",
+        "type": "silence",
+        "startTime": 103.39,
+        "endTime": 106.52,
+        "duration": 3.13,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.13s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_11",
+        "type": "silence",
+        "startTime": 114.91,
+        "endTime": 118.18,
+        "duration": 3.27,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.27s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_12",
+        "type": "silence",
+        "startTime": 123.64,
+        "endTime": 126.76,
+        "duration": 3.11,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.11s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_13",
+        "type": "silence",
+        "startTime": 133.46,
+        "endTime": 136.72,
+        "duration": 3.26,
+        "transcriptExcerpt": "[Silence / Dead Air]",
+        "reason": "Remove awkward 3.26s pause to maintain viewer engagement",
+        "confidence": 0.96,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_14",
+        "type": "filler",
+        "startTime": 7.6,
+        "endTime": 7.84,
+        "duration": 0.24,
+        "transcriptExcerpt": "Filler word: 'actually'",
+        "reason": "Remove verbal crutch 'actually' for crisp delivery",
+        "confidence": 0.98,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_15",
+        "type": "filler",
+        "startTime": 25.12,
+        "endTime": 25.54,
+        "duration": 0.42,
+        "transcriptExcerpt": "Filler word: 'um,'",
+        "reason": "Remove verbal crutch 'um,' for crisp delivery",
+        "confidence": 0.61,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_16",
+        "type": "filler",
+        "startTime": 38.91,
+        "endTime": 39.31,
+        "duration": 0.4,
+        "transcriptExcerpt": "Filler word: 'basically'",
+        "reason": "Remove verbal crutch 'basically' for crisp delivery",
+        "confidence": 1.0,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_17",
+        "type": "filler",
+        "startTime": 36.03,
+        "endTime": 36.35,
+        "duration": 0.32,
+        "transcriptExcerpt": "Filler word: 'you know?'",
+        "reason": "Remove verbal crutch 'you know?' for crisp delivery",
+        "confidence": 0.98,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_18",
+        "type": "filler",
+        "startTime": 47.87,
+        "endTime": 48.13,
+        "duration": 0.26,
+        "transcriptExcerpt": "Filler word: 'um,'",
+        "reason": "Remove verbal crutch 'um,' for crisp delivery",
+        "confidence": 0.79,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_19",
+        "type": "filler",
+        "startTime": 65.93,
+        "endTime": 65.93,
+        "duration": 0.0,
+        "transcriptExcerpt": "Filler word: 'uh,'",
+        "reason": "Remove verbal crutch 'uh,' for crisp delivery",
+        "confidence": 0.89,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_20",
+        "type": "filler",
+        "startTime": 102.22,
+        "endTime": 102.48,
+        "duration": 0.26,
+        "transcriptExcerpt": "Filler word: 'um,'",
+        "reason": "Remove verbal crutch 'um,' for crisp delivery",
+        "confidence": 0.11,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_21",
+        "type": "filler",
+        "startTime": 112.02,
+        "endTime": 112.22,
+        "duration": 0.2,
+        "transcriptExcerpt": "Filler word: 'um,'",
+        "reason": "Remove verbal crutch 'um,' for crisp delivery",
+        "confidence": 0.67,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_22",
+        "type": "filler",
+        "startTime": 122.43,
+        "endTime": 122.53,
+        "duration": 0.1,
+        "transcriptExcerpt": "Filler word: 'uh,'",
+        "reason": "Remove verbal crutch 'uh,' for crisp delivery",
+        "confidence": 0.91,
+        "decision": "cut",
+        "approved": true
+      },
+      {
+        "id": "sug_23",
+        "type": "filler",
+        "startTime": 132.96,
+        "endTime": 133.24,
+        "duration": 0.28,
+        "transcriptExcerpt": "Filler word: 'actually'",
+        "reason": "Remove verbal crutch 'actually' for crisp delivery",
+        "confidence": 1.0,
+        "decision": "cut",
+        "approved": true
+      }
+    ],
+    "retainedIntervals": [
+      {
+        "start": 0.0,
+        "end": 7.6
+      },
+      {
+        "start": 11.2,
+        "end": 18.79
+      },
+      {
+        "start": 21.84,
+        "end": 25.12
+      },
+      {
+        "start": 25.54,
+        "end": 29.49
+      },
+      {
+        "start": 32.92,
+        "end": 36.03
+      },
+      {
+        "start": 36.35,
+        "end": 38.91
+      },
+      {
+        "start": 39.31,
+        "end": 39.59
+      },
+      {
+        "start": 43.06,
+        "end": 47.87
+      },
+      {
+        "start": 48.13,
+        "end": 51.67
+      },
+      {
+        "start": 54.85,
+        "end": 60.48
+      },
+      {
+        "start": 63.95,
+        "end": 65.93
+      },
+      {
+        "start": 65.93,
+        "end": 70.28
+      },
+      {
+        "start": 75.06,
+        "end": 81.56
+      },
+      {
+        "start": 84.79,
+        "end": 92.45
+      },
+      {
+        "start": 95.7,
+        "end": 102.22
+      },
+      {
+        "start": 102.48,
+        "end": 103.39
+      },
+      {
+        "start": 106.52,
+        "end": 112.02
+      },
+      {
+        "start": 112.22,
+        "end": 114.91
+      },
+      {
+        "start": 118.18,
+        "end": 122.43
+      },
+      {
+        "start": 122.53,
+        "end": 123.64
+      },
+      {
+        "start": 126.76,
+        "end": 132.96
+      },
+      {
+        "start": 133.24,
+        "end": 133.46
+      },
+      {
+        "start": 136.72,
+        "end": 144.14
+      }
+    ],
+    "originalDuration": 144.14,
+    "estimatedFinalDuration": 97.66,
+    "targetMaxDuration": 60.0,
+    "status": "draft"
+  },
+  "transcript": [
+    {
+      "id": "seg_1",
+      "start": 0.0,
+      "end": 1.42,
+      "text": "Hey everyone, welcome back.",
+      "words": [
+        {
+          "id": "seg_1_w1",
+          "word": "Hey",
+          "start": 0.0,
+          "end": 0.32,
+          "confidence": 0.74,
+          "isFiller": false
+        },
+        {
+          "id": "seg_1_w2",
+          "word": "everyone,",
+          "start": 0.32,
+          "end": 0.68,
+          "confidence": 0.88,
+          "isFiller": false
+        },
+        {
+          "id": "seg_1_w3",
+          "word": "welcome",
+          "start": 1.14,
+          "end": 1.3,
+          "confidence": 0.96,
+          "isFiller": false
+        },
+        {
+          "id": "seg_1_w4",
+          "word": "back.",
+          "start": 1.3,
+          "end": 1.7,
+          "confidence": 1.0,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.89,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_2",
+      "start": 2.24,
+      "end": 7.88,
+      "text": "Today I want to talk about how I turn a long video into a short reel, and the three things that actually matter.",
+      "words": [
+        {
+          "id": "seg_2_w1",
+          "word": "Today",
+          "start": 2.26,
+          "end": 2.44,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w2",
+          "word": "I",
+          "start": 2.44,
+          "end": 2.56,
+          "confidence": 0.75,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w3",
+          "word": "want",
+          "start": 2.56,
+          "end": 2.74,
+          "confidence": 0.85,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w4",
+          "word": "to",
+          "start": 2.74,
+          "end": 2.8,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w5",
+          "word": "talk",
+          "start": 2.8,
+          "end": 3.0,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w6",
+          "word": "about",
+          "start": 3.0,
+          "end": 3.22,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w7",
+          "word": "how",
+          "start": 3.22,
+          "end": 3.44,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w8",
+          "word": "I",
+          "start": 3.44,
+          "end": 3.52,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w9",
+          "word": "turn",
+          "start": 3.52,
+          "end": 3.66,
+          "confidence": 0.82,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w10",
+          "word": "a",
+          "start": 3.66,
+          "end": 3.88,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w11",
+          "word": "long",
+          "start": 3.88,
+          "end": 4.16,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w12",
+          "word": "video",
+          "start": 4.16,
+          "end": 4.5,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w13",
+          "word": "into",
+          "start": 4.5,
+          "end": 4.74,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w14",
+          "word": "a",
+          "start": 4.74,
+          "end": 4.98,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w15",
+          "word": "short",
+          "start": 4.98,
+          "end": 5.22,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w16",
+          "word": "reel,",
+          "start": 5.22,
+          "end": 5.64,
+          "confidence": 0.83,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w17",
+          "word": "and",
+          "start": 6.02,
+          "end": 6.12,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w18",
+          "word": "the",
+          "start": 6.12,
+          "end": 6.66,
+          "confidence": 0.8,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w19",
+          "word": "three",
+          "start": 6.66,
+          "end": 6.92,
+          "confidence": 0.86,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w20",
+          "word": "things",
+          "start": 6.92,
+          "end": 7.22,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w21",
+          "word": "that",
+          "start": 7.22,
+          "end": 7.6,
+          "confidence": 0.96,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w22",
+          "word": "actually",
+          "start": 7.6,
+          "end": 7.84,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_2_w23",
+          "word": "matter.",
+          "start": 7.84,
+          "end": 8.3,
+          "confidence": 1.0,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.94,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_3",
+      "start": 11.2,
+      "end": 11.84,
+      "text": "First, the hook.",
+      "words": [
+        {
+          "id": "seg_3_w1",
+          "word": "First,",
+          "start": 11.22,
+          "end": 11.48,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_3_w2",
+          "word": "the",
+          "start": 11.74,
+          "end": 11.84,
+          "confidence": 0.9,
+          "isFiller": false
+        },
+        {
+          "id": "seg_3_w3",
+          "word": "hook.",
+          "start": 11.84,
+          "end": 12.12,
+          "confidence": 0.98,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.95,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_4",
+      "start": 12.64,
+      "end": 16.38,
+      "text": "You have about two seconds, so the first sentence has to earn the scroll.",
+      "words": [
+        {
+          "id": "seg_4_w1",
+          "word": "You",
+          "start": 12.68,
+          "end": 12.74,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w2",
+          "word": "have",
+          "start": 12.74,
+          "end": 12.9,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w3",
+          "word": "about",
+          "start": 12.9,
+          "end": 13.2,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w4",
+          "word": "two",
+          "start": 13.2,
+          "end": 13.54,
+          "confidence": 0.7,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w5",
+          "word": "seconds,",
+          "start": 13.54,
+          "end": 13.92,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w6",
+          "word": "so",
+          "start": 14.48,
+          "end": 14.52,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w7",
+          "word": "the",
+          "start": 14.52,
+          "end": 14.9,
+          "confidence": 0.78,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w8",
+          "word": "first",
+          "start": 14.9,
+          "end": 15.18,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w9",
+          "word": "sentence",
+          "start": 15.18,
+          "end": 15.42,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w10",
+          "word": "has",
+          "start": 15.42,
+          "end": 15.72,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w11",
+          "word": "to",
+          "start": 15.72,
+          "end": 15.84,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w12",
+          "word": "earn",
+          "start": 15.84,
+          "end": 16.02,
+          "confidence": 0.96,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w13",
+          "word": "the",
+          "start": 16.02,
+          "end": 16.3,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_4_w14",
+          "word": "scroll.",
+          "start": 16.3,
+          "end": 16.56,
+          "confidence": 0.99,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.95,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_5",
+      "start": 17.0,
+      "end": 18.79,
+      "text": "If it doesn't, nothing else matters.",
+      "words": [
+        {
+          "id": "seg_5_w1",
+          "word": "If",
+          "start": 17.0,
+          "end": 17.1,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_5_w2",
+          "word": "it",
+          "start": 17.1,
+          "end": 17.26,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_5_w3",
+          "word": "doesn't,",
+          "start": 17.26,
+          "end": 17.8,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_5_w4",
+          "word": "nothing",
+          "start": 17.94,
+          "end": 18.16,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_5_w5",
+          "word": "else",
+          "start": 18.16,
+          "end": 18.44,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_5_w6",
+          "word": "matters.",
+          "start": 18.44,
+          "end": 18.78,
+          "confidence": 1.0,
+          "isFiller": false
+        }
+      ],
+      "confidence": 1.0,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_6",
+      "start": 21.84,
+      "end": 23.13,
+      "text": "Second, cut the dead air.",
+      "words": [
+        {
+          "id": "seg_6_w1",
+          "word": "Second,",
+          "start": 21.98,
+          "end": 22.2,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_6_w2",
+          "word": "cut",
+          "start": 22.6,
+          "end": 22.78,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_6_w3",
+          "word": "the",
+          "start": 22.78,
+          "end": 22.98,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_6_w4",
+          "word": "dead",
+          "start": 22.98,
+          "end": 23.14,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_6_w5",
+          "word": "air.",
+          "start": 23.14,
+          "end": 23.42,
+          "confidence": 0.87,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.96,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_7",
+      "start": 23.95,
+      "end": 29.49,
+      "text": "Every pause, every um, every time you restart a sentence, that is time your viewer is already leaving.",
+      "words": [
+        {
+          "id": "seg_7_w1",
+          "word": "Every",
+          "start": 24.04,
+          "end": 24.18,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w2",
+          "word": "pause,",
+          "start": 24.18,
+          "end": 24.72,
+          "confidence": 0.95,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w3",
+          "word": "every",
+          "start": 24.84,
+          "end": 25.12,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w4",
+          "word": "um,",
+          "start": 25.12,
+          "end": 25.54,
+          "confidence": 0.61,
+          "isFiller": true
+        },
+        {
+          "id": "seg_7_w5",
+          "word": "every",
+          "start": 25.84,
+          "end": 26.04,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w6",
+          "word": "time",
+          "start": 26.04,
+          "end": 26.26,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w7",
+          "word": "you",
+          "start": 26.26,
+          "end": 26.5,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w8",
+          "word": "restart",
+          "start": 26.5,
+          "end": 26.76,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w9",
+          "word": "a",
+          "start": 26.76,
+          "end": 27.06,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w10",
+          "word": "sentence,",
+          "start": 27.06,
+          "end": 27.36,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w11",
+          "word": "that",
+          "start": 27.78,
+          "end": 27.9,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w12",
+          "word": "is",
+          "start": 27.9,
+          "end": 28.08,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w13",
+          "word": "time",
+          "start": 28.08,
+          "end": 28.34,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w14",
+          "word": "your",
+          "start": 28.34,
+          "end": 28.52,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w15",
+          "word": "viewer",
+          "start": 28.52,
+          "end": 28.76,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w16",
+          "word": "is",
+          "start": 28.76,
+          "end": 29.14,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w17",
+          "word": "already",
+          "start": 29.14,
+          "end": 29.4,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_7_w18",
+          "word": "leaving.",
+          "start": 29.4,
+          "end": 29.8,
+          "confidence": 0.99,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.96,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_8",
+      "start": 32.92,
+      "end": 34.1,
+      "text": "Third, captions.",
+      "words": [
+        {
+          "id": "seg_8_w1",
+          "word": "Third,",
+          "start": 32.89,
+          "end": 33.19,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_8_w2",
+          "word": "captions.",
+          "start": 33.69,
+          "end": 34.05,
+          "confidence": 0.99,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.98,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_9",
+      "start": 34.71,
+      "end": 39.59,
+      "text": "Most people watch on mute, you know? So if the words are not on screen, the video is basically silent",
+      "words": [
+        {
+          "id": "seg_9_w1",
+          "word": "Most",
+          "start": 34.75,
+          "end": 34.93,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w2",
+          "word": "people",
+          "start": 34.93,
+          "end": 35.19,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w3",
+          "word": "watch",
+          "start": 35.19,
+          "end": 35.41,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w4",
+          "word": "on",
+          "start": 35.41,
+          "end": 35.63,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w5",
+          "word": "mute,",
+          "start": 35.63,
+          "end": 35.87,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w6",
+          "word": "you",
+          "start": 36.03,
+          "end": 36.03,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w7",
+          "word": "know?",
+          "start": 36.03,
+          "end": 36.35,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w8",
+          "word": "So",
+          "start": 36.35,
+          "end": 36.69,
+          "confidence": 0.48,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w9",
+          "word": "if",
+          "start": 36.69,
+          "end": 36.81,
+          "confidence": 0.85,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w10",
+          "word": "the",
+          "start": 36.81,
+          "end": 36.97,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w11",
+          "word": "words",
+          "start": 36.97,
+          "end": 37.15,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w12",
+          "word": "are",
+          "start": 37.15,
+          "end": 37.35,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w13",
+          "word": "not",
+          "start": 37.35,
+          "end": 37.43,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w14",
+          "word": "on",
+          "start": 37.43,
+          "end": 37.67,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w15",
+          "word": "screen,",
+          "start": 37.67,
+          "end": 38.01,
+          "confidence": 0.9,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w16",
+          "word": "the",
+          "start": 38.33,
+          "end": 38.47,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w17",
+          "word": "video",
+          "start": 38.47,
+          "end": 38.67,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w18",
+          "word": "is",
+          "start": 38.67,
+          "end": 38.91,
+          "confidence": 0.96,
+          "isFiller": false
+        },
+        {
+          "id": "seg_9_w19",
+          "word": "basically",
+          "start": 38.91,
+          "end": 39.31,
+          "confidence": 1.0,
+          "isFiller": true
+        },
+        {
+          "id": "seg_9_w20",
+          "word": "silent",
+          "start": 39.31,
+          "end": 39.69,
+          "confidence": 0.99,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.95,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_10",
+      "start": 43.06,
+      "end": 46.49,
+      "text": "Now the part nobody likes. Watching your own footage back.",
+      "words": [
+        {
+          "id": "seg_10_w1",
+          "word": "Now",
+          "start": 43.23,
+          "end": 43.31,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_10_w2",
+          "word": "the",
+          "start": 43.31,
+          "end": 43.51,
+          "confidence": 0.86,
+          "isFiller": false
+        },
+        {
+          "id": "seg_10_w3",
+          "word": "part",
+          "start": 43.51,
+          "end": 43.73,
+          "confidence": 0.95,
+          "isFiller": false
+        },
+        {
+          "id": "seg_10_w4",
+          "word": "nobody",
+          "start": 43.73,
+          "end": 44.07,
+          "confidence": 0.94,
+          "isFiller": false
+        },
+        {
+          "id": "seg_10_w5",
+          "word": "likes.",
+          "start": 44.07,
+          "end": 44.65,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_10_w6",
+          "word": "Watching",
+          "start": 45.09,
+          "end": 45.31,
+          "confidence": 0.94,
+          "isFiller": false
+        },
+        {
+          "id": "seg_10_w7",
+          "word": "your",
+          "start": 45.31,
+          "end": 45.61,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_10_w8",
+          "word": "own",
+          "start": 45.61,
+          "end": 45.87,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_10_w9",
+          "word": "footage",
+          "start": 45.87,
+          "end": 46.11,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_10_w10",
+          "word": "back.",
+          "start": 46.11,
+          "end": 46.75,
+          "confidence": 0.99,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.96,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_11",
+      "start": 47.2,
+      "end": 48.07,
+      "text": "It is, um,",
+      "words": [
+        {
+          "id": "seg_11_w1",
+          "word": "It",
+          "start": 47.27,
+          "end": 47.29,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_11_w2",
+          "word": "is,",
+          "start": 47.29,
+          "end": 47.87,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_11_w3",
+          "word": "um,",
+          "start": 47.87,
+          "end": 48.13,
+          "confidence": 0.79,
+          "isFiller": true
+        }
+      ],
+      "confidence": 0.92,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_12",
+      "start": 49.72,
+      "end": 51.67,
+      "text": "but it is the only way to find the boring bits.",
+      "words": [
+        {
+          "id": "seg_12_w1",
+          "word": "but",
+          "start": 49.75,
+          "end": 49.85,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_12_w2",
+          "word": "it",
+          "start": 49.85,
+          "end": 49.97,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_12_w3",
+          "word": "is",
+          "start": 49.97,
+          "end": 50.09,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_12_w4",
+          "word": "the",
+          "start": 50.09,
+          "end": 50.33,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_12_w5",
+          "word": "only",
+          "start": 50.33,
+          "end": 50.49,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_12_w6",
+          "word": "way",
+          "start": 50.49,
+          "end": 50.65,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_12_w7",
+          "word": "to",
+          "start": 50.65,
+          "end": 50.79,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_12_w8",
+          "word": "find",
+          "start": 50.79,
+          "end": 50.97,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_12_w9",
+          "word": "the",
+          "start": 50.97,
+          "end": 51.19,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_12_w10",
+          "word": "boring",
+          "start": 51.19,
+          "end": 51.33,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_12_w11",
+          "word": "bits.",
+          "start": 51.33,
+          "end": 51.83,
+          "confidence": 0.98,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.99,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_13",
+      "start": 54.85,
+      "end": 57.93,
+      "text": "I usually watch it once at normal speed, then once at double speed,",
+      "words": [
+        {
+          "id": "seg_13_w1",
+          "word": "I",
+          "start": 54.9,
+          "end": 54.94,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w2",
+          "word": "usually",
+          "start": 54.94,
+          "end": 55.18,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w3",
+          "word": "watch",
+          "start": 55.18,
+          "end": 55.48,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w4",
+          "word": "it",
+          "start": 55.48,
+          "end": 55.72,
+          "confidence": 0.96,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w5",
+          "word": "once",
+          "start": 55.72,
+          "end": 55.88,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w6",
+          "word": "at",
+          "start": 55.88,
+          "end": 56.06,
+          "confidence": 0.77,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w7",
+          "word": "normal",
+          "start": 56.06,
+          "end": 56.34,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w8",
+          "word": "speed,",
+          "start": 56.34,
+          "end": 56.76,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w9",
+          "word": "then",
+          "start": 57.16,
+          "end": 57.26,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w10",
+          "word": "once",
+          "start": 57.26,
+          "end": 57.46,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w11",
+          "word": "at",
+          "start": 57.46,
+          "end": 57.58,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w12",
+          "word": "double",
+          "start": 57.58,
+          "end": 57.8,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_13_w13",
+          "word": "speed,",
+          "start": 57.8,
+          "end": 58.24,
+          "confidence": 0.99,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.97,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_14",
+      "start": 58.55,
+      "end": 60.48,
+      "text": "and I mark every moment I feel my attention drift.",
+      "words": [
+        {
+          "id": "seg_14_w1",
+          "word": "and",
+          "start": 58.54,
+          "end": 58.7,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_14_w2",
+          "word": "I",
+          "start": 58.7,
+          "end": 58.8,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_14_w3",
+          "word": "mark",
+          "start": 58.8,
+          "end": 58.98,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_14_w4",
+          "word": "every",
+          "start": 58.98,
+          "end": 59.34,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_14_w5",
+          "word": "moment",
+          "start": 59.34,
+          "end": 59.62,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_14_w6",
+          "word": "I",
+          "start": 59.62,
+          "end": 59.84,
+          "confidence": 0.94,
+          "isFiller": false
+        },
+        {
+          "id": "seg_14_w7",
+          "word": "feel",
+          "start": 59.84,
+          "end": 60.0,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_14_w8",
+          "word": "my",
+          "start": 60.0,
+          "end": 60.18,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_14_w9",
+          "word": "attention",
+          "start": 60.18,
+          "end": 60.46,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_14_w10",
+          "word": "drift.",
+          "start": 60.46,
+          "end": 60.98,
+          "confidence": 0.96,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.98,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_15",
+      "start": 63.95,
+      "end": 66.51,
+      "text": "Then I cut those moments out, and, uh, I check the length again.",
+      "words": [
+        {
+          "id": "seg_15_w1",
+          "word": "Then",
+          "start": 63.91,
+          "end": 64.09,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w2",
+          "word": "I",
+          "start": 64.09,
+          "end": 64.23,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w3",
+          "word": "cut",
+          "start": 64.23,
+          "end": 64.31,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w4",
+          "word": "those",
+          "start": 64.31,
+          "end": 64.51,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w5",
+          "word": "moments",
+          "start": 64.51,
+          "end": 64.81,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w6",
+          "word": "out,",
+          "start": 64.81,
+          "end": 65.29,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w7",
+          "word": "and,",
+          "start": 65.29,
+          "end": 65.83,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w8",
+          "word": "uh,",
+          "start": 65.93,
+          "end": 65.93,
+          "confidence": 0.89,
+          "isFiller": true
+        },
+        {
+          "id": "seg_15_w9",
+          "word": "I",
+          "start": 65.93,
+          "end": 65.93,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w10",
+          "word": "check",
+          "start": 65.93,
+          "end": 66.07,
+          "confidence": 0.94,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w11",
+          "word": "the",
+          "start": 66.07,
+          "end": 66.25,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w12",
+          "word": "length",
+          "start": 66.25,
+          "end": 66.37,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_15_w13",
+          "word": "again.",
+          "start": 66.37,
+          "end": 66.83,
+          "confidence": 0.99,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.98,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_16",
+      "start": 67.29,
+      "end": 70.28,
+      "text": "If it is still over 60 seconds, I cut the weakest idea completely.",
+      "words": [
+        {
+          "id": "seg_16_w1",
+          "word": "If",
+          "start": 67.27,
+          "end": 67.41,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w2",
+          "word": "it",
+          "start": 67.41,
+          "end": 67.57,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w3",
+          "word": "is",
+          "start": 67.57,
+          "end": 67.63,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w4",
+          "word": "still",
+          "start": 67.63,
+          "end": 67.85,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w5",
+          "word": "over",
+          "start": 67.85,
+          "end": 68.03,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w6",
+          "word": "60",
+          "start": 68.03,
+          "end": 68.29,
+          "confidence": 0.94,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w7",
+          "word": "seconds,",
+          "start": 68.29,
+          "end": 68.77,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w8",
+          "word": "I",
+          "start": 68.97,
+          "end": 69.07,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w9",
+          "word": "cut",
+          "start": 69.07,
+          "end": 69.21,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w10",
+          "word": "the",
+          "start": 69.21,
+          "end": 69.45,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w11",
+          "word": "weakest",
+          "start": 69.45,
+          "end": 69.67,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w12",
+          "word": "idea",
+          "start": 69.67,
+          "end": 70.01,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_16_w13",
+          "word": "completely.",
+          "start": 70.01,
+          "end": 70.53,
+          "confidence": 0.98,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.99,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_17",
+      "start": 75.06,
+      "end": 75.81,
+      "text": "Framing matters too.",
+      "words": [
+        {
+          "id": "seg_17_w1",
+          "word": "Framing",
+          "start": 75.13,
+          "end": 75.27,
+          "confidence": 0.88,
+          "isFiller": false
+        },
+        {
+          "id": "seg_17_w2",
+          "word": "matters",
+          "start": 75.27,
+          "end": 75.65,
+          "confidence": 0.93,
+          "isFiller": false
+        },
+        {
+          "id": "seg_17_w3",
+          "word": "too.",
+          "start": 75.65,
+          "end": 76.21,
+          "confidence": 0.65,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.82,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_18",
+      "start": 76.46,
+      "end": 81.56,
+      "text": "A horizontal video cropped badly will cut off your chin or your hands, so you have to keep your face in the center.",
+      "words": [
+        {
+          "id": "seg_18_w1",
+          "word": "A",
+          "start": 76.45,
+          "end": 76.61,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w2",
+          "word": "horizontal",
+          "start": 76.61,
+          "end": 76.95,
+          "confidence": 0.95,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w3",
+          "word": "video",
+          "start": 76.95,
+          "end": 77.33,
+          "confidence": 0.15,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w4",
+          "word": "cropped",
+          "start": 77.33,
+          "end": 77.71,
+          "confidence": 0.87,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w5",
+          "word": "badly",
+          "start": 77.71,
+          "end": 78.11,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w6",
+          "word": "will",
+          "start": 78.11,
+          "end": 78.47,
+          "confidence": 0.61,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w7",
+          "word": "cut",
+          "start": 78.47,
+          "end": 78.57,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w8",
+          "word": "off",
+          "start": 78.57,
+          "end": 78.81,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w9",
+          "word": "your",
+          "start": 78.81,
+          "end": 79.01,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w10",
+          "word": "chin",
+          "start": 79.01,
+          "end": 79.15,
+          "confidence": 0.94,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w11",
+          "word": "or",
+          "start": 79.15,
+          "end": 79.35,
+          "confidence": 0.96,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w12",
+          "word": "your",
+          "start": 79.35,
+          "end": 79.53,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w13",
+          "word": "hands,",
+          "start": 79.53,
+          "end": 80.07,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w14",
+          "word": "so",
+          "start": 80.35,
+          "end": 80.45,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w15",
+          "word": "you",
+          "start": 80.45,
+          "end": 80.49,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w16",
+          "word": "have",
+          "start": 80.49,
+          "end": 80.63,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w17",
+          "word": "to",
+          "start": 80.63,
+          "end": 80.71,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w18",
+          "word": "keep",
+          "start": 80.71,
+          "end": 80.91,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w19",
+          "word": "your",
+          "start": 80.91,
+          "end": 81.11,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w20",
+          "word": "face",
+          "start": 81.11,
+          "end": 81.31,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w21",
+          "word": "in",
+          "start": 81.31,
+          "end": 81.51,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w22",
+          "word": "the",
+          "start": 81.51,
+          "end": 81.55,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_18_w23",
+          "word": "center.",
+          "start": 81.55,
+          "end": 81.85,
+          "confidence": 0.97,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.92,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_19",
+      "start": 84.79,
+      "end": 86.02,
+      "text": "And finally, the title card.",
+      "words": [
+        {
+          "id": "seg_19_w1",
+          "word": "And",
+          "start": 84.96,
+          "end": 85.0,
+          "confidence": 0.84,
+          "isFiller": false
+        },
+        {
+          "id": "seg_19_w2",
+          "word": "finally,",
+          "start": 85.0,
+          "end": 85.32,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_19_w3",
+          "word": "the",
+          "start": 85.64,
+          "end": 85.74,
+          "confidence": 0.95,
+          "isFiller": false
+        },
+        {
+          "id": "seg_19_w4",
+          "word": "title",
+          "start": 85.74,
+          "end": 85.94,
+          "confidence": 0.91,
+          "isFiller": false
+        },
+        {
+          "id": "seg_19_w5",
+          "word": "card.",
+          "start": 85.94,
+          "end": 86.28,
+          "confidence": 0.94,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.93,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_20",
+      "start": 86.89,
+      "end": 92.45,
+      "text": "Two seconds, big text, one promise. If the promise is clear, people stay to see if you keep",
+      "words": [
+        {
+          "id": "seg_20_w1",
+          "word": "Two",
+          "start": 87.04,
+          "end": 87.06,
+          "confidence": 0.75,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w2",
+          "word": "seconds,",
+          "start": 87.06,
+          "end": 87.48,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w3",
+          "word": "big",
+          "start": 87.86,
+          "end": 88.02,
+          "confidence": 0.57,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w4",
+          "word": "text,",
+          "start": 88.02,
+          "end": 88.42,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w5",
+          "word": "one",
+          "start": 88.84,
+          "end": 88.96,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w6",
+          "word": "promise.",
+          "start": 88.96,
+          "end": 89.38,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w7",
+          "word": "If",
+          "start": 89.98,
+          "end": 90.08,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w8",
+          "word": "the",
+          "start": 90.08,
+          "end": 90.24,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w9",
+          "word": "promise",
+          "start": 90.24,
+          "end": 90.42,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w10",
+          "word": "is",
+          "start": 90.42,
+          "end": 90.7,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w11",
+          "word": "clear,",
+          "start": 90.7,
+          "end": 90.98,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w12",
+          "word": "people",
+          "start": 91.38,
+          "end": 91.58,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w13",
+          "word": "stay",
+          "start": 91.58,
+          "end": 91.86,
+          "confidence": 0.9,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w14",
+          "word": "to",
+          "start": 91.86,
+          "end": 92.02,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w15",
+          "word": "see",
+          "start": 92.02,
+          "end": 92.18,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w16",
+          "word": "if",
+          "start": 92.18,
+          "end": 92.28,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w17",
+          "word": "you",
+          "start": 92.28,
+          "end": 92.38,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_20_w18",
+          "word": "keep",
+          "start": 92.38,
+          "end": 92.56,
+          "confidence": 0.99,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.95,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_21",
+      "start": 95.7,
+      "end": 99.77,
+      "text": "So that is the whole process. Hook, cut, captions, framing, title card.",
+      "words": [
+        {
+          "id": "seg_21_w1",
+          "word": "So",
+          "start": 95.72,
+          "end": 95.84,
+          "confidence": 0.96,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w2",
+          "word": "that",
+          "start": 95.84,
+          "end": 95.98,
+          "confidence": 0.92,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w3",
+          "word": "is",
+          "start": 95.98,
+          "end": 96.12,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w4",
+          "word": "the",
+          "start": 96.12,
+          "end": 96.22,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w5",
+          "word": "whole",
+          "start": 96.22,
+          "end": 96.42,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w6",
+          "word": "process.",
+          "start": 96.42,
+          "end": 96.88,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w7",
+          "word": "Hook,",
+          "start": 97.36,
+          "end": 97.54,
+          "confidence": 0.89,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w8",
+          "word": "cut,",
+          "start": 97.86,
+          "end": 98.1,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w9",
+          "word": "captions,",
+          "start": 98.7,
+          "end": 98.7,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w10",
+          "word": "framing,",
+          "start": 99.04,
+          "end": 99.22,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w11",
+          "word": "title",
+          "start": 99.58,
+          "end": 99.7,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_21_w12",
+          "word": "card.",
+          "start": 99.7,
+          "end": 100.18,
+          "confidence": 0.98,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.97,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_22",
+      "start": 100.65,
+      "end": 103.39,
+      "text": "Try it on your next video, and um, let me know how it goes.",
+      "words": [
+        {
+          "id": "seg_22_w1",
+          "word": "Try",
+          "start": 100.76,
+          "end": 100.8,
+          "confidence": 0.95,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w2",
+          "word": "it",
+          "start": 100.8,
+          "end": 100.94,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w3",
+          "word": "on",
+          "start": 100.94,
+          "end": 100.96,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w4",
+          "word": "your",
+          "start": 100.96,
+          "end": 101.12,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w5",
+          "word": "next",
+          "start": 101.12,
+          "end": 101.3,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w6",
+          "word": "video,",
+          "start": 101.3,
+          "end": 101.74,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w7",
+          "word": "and",
+          "start": 102.22,
+          "end": 102.22,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w8",
+          "word": "um,",
+          "start": 102.22,
+          "end": 102.48,
+          "confidence": 0.11,
+          "isFiller": true
+        },
+        {
+          "id": "seg_22_w9",
+          "word": "let",
+          "start": 102.66,
+          "end": 102.78,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w10",
+          "word": "me",
+          "start": 102.78,
+          "end": 102.8,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w11",
+          "word": "know",
+          "start": 102.8,
+          "end": 102.9,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w12",
+          "word": "how",
+          "start": 102.9,
+          "end": 103.02,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w13",
+          "word": "it",
+          "start": 103.02,
+          "end": 103.12,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_22_w14",
+          "word": "goes.",
+          "start": 103.12,
+          "end": 103.48,
+          "confidence": 0.99,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.93,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_23",
+      "start": 106.52,
+      "end": 107.55,
+      "text": "One more thing, the audio.",
+      "words": [
+        {
+          "id": "seg_23_w1",
+          "word": "One",
+          "start": 106.6,
+          "end": 106.7,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_23_w2",
+          "word": "more",
+          "start": 106.7,
+          "end": 106.84,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_23_w3",
+          "word": "thing,",
+          "start": 106.84,
+          "end": 107.12,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_23_w4",
+          "word": "the",
+          "start": 107.28,
+          "end": 107.44,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_23_w5",
+          "word": "audio.",
+          "start": 107.44,
+          "end": 107.74,
+          "confidence": 0.98,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.99,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_24",
+      "start": 108.38,
+      "end": 112.12,
+      "text": "audio will kill a good video faster than bad lighting, so, um,",
+      "words": [
+        {
+          "id": "seg_24_w1",
+          "word": "audio",
+          "start": 108.56,
+          "end": 108.98,
+          "confidence": 0.77,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w2",
+          "word": "will",
+          "start": 108.98,
+          "end": 109.26,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w3",
+          "word": "kill",
+          "start": 109.26,
+          "end": 109.38,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w4",
+          "word": "a",
+          "start": 109.38,
+          "end": 109.54,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w5",
+          "word": "good",
+          "start": 109.54,
+          "end": 109.72,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w6",
+          "word": "video",
+          "start": 109.72,
+          "end": 110.06,
+          "confidence": 0.95,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w7",
+          "word": "faster",
+          "start": 110.06,
+          "end": 110.42,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w8",
+          "word": "than",
+          "start": 110.42,
+          "end": 110.66,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w9",
+          "word": "bad",
+          "start": 110.66,
+          "end": 110.86,
+          "confidence": 0.96,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w10",
+          "word": "lighting,",
+          "start": 110.86,
+          "end": 111.26,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w11",
+          "word": "so,",
+          "start": 111.86,
+          "end": 112.0,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_24_w12",
+          "word": "um,",
+          "start": 112.02,
+          "end": 112.22,
+          "confidence": 0.67,
+          "isFiller": true
+        }
+      ],
+      "confidence": 0.94,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_25",
+      "start": 112.73,
+      "end": 114.91,
+      "text": "record somewhere quiet and close to the microphone.",
+      "words": [
+        {
+          "id": "seg_25_w1",
+          "word": "record",
+          "start": 112.9,
+          "end": 113.0,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_25_w2",
+          "word": "somewhere",
+          "start": 113.0,
+          "end": 113.42,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_25_w3",
+          "word": "quiet",
+          "start": 113.42,
+          "end": 113.88,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_25_w4",
+          "word": "and",
+          "start": 113.88,
+          "end": 114.22,
+          "confidence": 0.93,
+          "isFiller": false
+        },
+        {
+          "id": "seg_25_w5",
+          "word": "close",
+          "start": 114.22,
+          "end": 114.42,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_25_w6",
+          "word": "to",
+          "start": 114.42,
+          "end": 114.6,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_25_w7",
+          "word": "the",
+          "start": 114.6,
+          "end": 114.7,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_25_w8",
+          "word": "microphone.",
+          "start": 114.7,
+          "end": 115.12,
+          "confidence": 0.99,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.98,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_26",
+      "start": 118.18,
+      "end": 120.54,
+      "text": "If you hear echo in your room, hang a blanket behind",
+      "words": [
+        {
+          "id": "seg_26_w1",
+          "word": "If",
+          "start": 118.25,
+          "end": 118.31,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_26_w2",
+          "word": "you",
+          "start": 118.31,
+          "end": 118.41,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_26_w3",
+          "word": "hear",
+          "start": 118.41,
+          "end": 118.65,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_26_w4",
+          "word": "echo",
+          "start": 118.65,
+          "end": 118.89,
+          "confidence": 0.68,
+          "isFiller": false
+        },
+        {
+          "id": "seg_26_w5",
+          "word": "in",
+          "start": 118.89,
+          "end": 119.03,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_26_w6",
+          "word": "your",
+          "start": 119.03,
+          "end": 119.21,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_26_w7",
+          "word": "room,",
+          "start": 119.21,
+          "end": 119.57,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_26_w8",
+          "word": "hang",
+          "start": 119.81,
+          "end": 119.89,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_26_w9",
+          "word": "a",
+          "start": 119.89,
+          "end": 120.05,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_26_w10",
+          "word": "blanket",
+          "start": 120.05,
+          "end": 120.31,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_26_w11",
+          "word": "behind",
+          "start": 120.31,
+          "end": 120.63,
+          "confidence": 1.0,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.96,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_27",
+      "start": 121.34,
+      "end": 123.64,
+      "text": "It looks silly, but, uh, it genuinely works.",
+      "words": [
+        {
+          "id": "seg_27_w1",
+          "word": "It",
+          "start": 121.35,
+          "end": 121.47,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_27_w2",
+          "word": "looks",
+          "start": 121.47,
+          "end": 121.71,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_27_w3",
+          "word": "silly,",
+          "start": 121.71,
+          "end": 122.01,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_27_w4",
+          "word": "but,",
+          "start": 122.43,
+          "end": 122.43,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_27_w5",
+          "word": "uh,",
+          "start": 122.43,
+          "end": 122.53,
+          "confidence": 0.91,
+          "isFiller": true
+        },
+        {
+          "id": "seg_27_w6",
+          "word": "it",
+          "start": 122.59,
+          "end": 122.95,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_27_w7",
+          "word": "genuinely",
+          "start": 122.95,
+          "end": 123.21,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_27_w8",
+          "word": "works.",
+          "start": 123.21,
+          "end": 123.75,
+          "confidence": 1.0,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.98,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_28",
+      "start": 126.76,
+      "end": 129.05,
+      "text": "And do not chase trends you do not understand.",
+      "words": [
+        {
+          "id": "seg_28_w1",
+          "word": "And",
+          "start": 126.8,
+          "end": 126.92,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_28_w2",
+          "word": "do",
+          "start": 126.92,
+          "end": 127.04,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_28_w3",
+          "word": "not",
+          "start": 127.04,
+          "end": 127.38,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_28_w4",
+          "word": "chase",
+          "start": 127.38,
+          "end": 127.66,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_28_w5",
+          "word": "trends",
+          "start": 127.66,
+          "end": 128.08,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_28_w6",
+          "word": "you",
+          "start": 128.08,
+          "end": 128.32,
+          "confidence": 0.85,
+          "isFiller": false
+        },
+        {
+          "id": "seg_28_w7",
+          "word": "do",
+          "start": 128.32,
+          "end": 128.52,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_28_w8",
+          "word": "not",
+          "start": 128.52,
+          "end": 128.74,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_28_w9",
+          "word": "understand.",
+          "start": 128.74,
+          "end": 129.26,
+          "confidence": 1.0,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.97,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_29",
+      "start": 129.89,
+      "end": 133.46,
+      "text": "A format that works for someone else might not fit what you are actually good",
+      "words": [
+        {
+          "id": "seg_29_w1",
+          "word": "A",
+          "start": 129.98,
+          "end": 130.06,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w2",
+          "word": "format",
+          "start": 130.06,
+          "end": 130.32,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w3",
+          "word": "that",
+          "start": 130.32,
+          "end": 130.56,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w4",
+          "word": "works",
+          "start": 130.56,
+          "end": 130.8,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w5",
+          "word": "for",
+          "start": 130.8,
+          "end": 131.02,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w6",
+          "word": "someone",
+          "start": 131.02,
+          "end": 131.2,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w7",
+          "word": "else",
+          "start": 131.2,
+          "end": 131.62,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w8",
+          "word": "might",
+          "start": 131.62,
+          "end": 131.94,
+          "confidence": 0.67,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w9",
+          "word": "not",
+          "start": 131.94,
+          "end": 132.26,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w10",
+          "word": "fit",
+          "start": 132.26,
+          "end": 132.42,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w11",
+          "word": "what",
+          "start": 132.42,
+          "end": 132.66,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w12",
+          "word": "you",
+          "start": 132.66,
+          "end": 132.76,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w13",
+          "word": "are",
+          "start": 132.76,
+          "end": 132.96,
+          "confidence": 0.68,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w14",
+          "word": "actually",
+          "start": 132.96,
+          "end": 133.24,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_29_w15",
+          "word": "good",
+          "start": 133.24,
+          "end": 133.56,
+          "confidence": 1.0,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.95,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_30",
+      "start": 136.72,
+      "end": 137.78,
+      "text": "Right? That is everything.",
+      "words": [
+        {
+          "id": "seg_30_w1",
+          "word": "Right?",
+          "start": 136.78,
+          "end": 136.98,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_30_w2",
+          "word": "That",
+          "start": 137.34,
+          "end": 137.5,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_30_w3",
+          "word": "is",
+          "start": 137.5,
+          "end": 137.7,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_30_w4",
+          "word": "everything.",
+          "start": 137.7,
+          "end": 138.12,
+          "confidence": 1.0,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.99,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    },
+    {
+      "id": "seg_31",
+      "start": 138.61,
+      "end": 143.31,
+      "text": "Go shoot something, cut it down, and see what survives. The edit is where the video is really",
+      "words": [
+        {
+          "id": "seg_31_w1",
+          "word": "Go",
+          "start": 138.64,
+          "end": 138.8,
+          "confidence": 0.88,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w2",
+          "word": "shoot",
+          "start": 138.8,
+          "end": 139.0,
+          "confidence": 0.97,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w3",
+          "word": "something,",
+          "start": 139.0,
+          "end": 139.36,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w4",
+          "word": "cut",
+          "start": 139.66,
+          "end": 139.72,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w5",
+          "word": "it",
+          "start": 139.72,
+          "end": 139.94,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w6",
+          "word": "down,",
+          "start": 139.94,
+          "end": 140.22,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w7",
+          "word": "and",
+          "start": 140.38,
+          "end": 140.52,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w8",
+          "word": "see",
+          "start": 140.52,
+          "end": 140.64,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w9",
+          "word": "what",
+          "start": 140.64,
+          "end": 140.76,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w10",
+          "word": "survives.",
+          "start": 140.76,
+          "end": 141.2,
+          "confidence": 0.98,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w11",
+          "word": "The",
+          "start": 141.78,
+          "end": 141.98,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w12",
+          "word": "edit",
+          "start": 141.98,
+          "end": 142.16,
+          "confidence": 0.9,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w13",
+          "word": "is",
+          "start": 142.16,
+          "end": 142.42,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w14",
+          "word": "where",
+          "start": 142.42,
+          "end": 142.54,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w15",
+          "word": "the",
+          "start": 142.54,
+          "end": 142.7,
+          "confidence": 0.99,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w16",
+          "word": "video",
+          "start": 142.7,
+          "end": 142.88,
+          "confidence": 1.0,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w17",
+          "word": "is",
+          "start": 142.88,
+          "end": 143.16,
+          "confidence": 0.88,
+          "isFiller": false
+        },
+        {
+          "id": "seg_31_w18",
+          "word": "really",
+          "start": 143.16,
+          "end": 143.4,
+          "confidence": 1.0,
+          "isFiller": false
+        }
+      ],
+      "confidence": 0.98,
+      "isKept": true,
+      "category": "speech",
+      "speaker": "Speaker 1"
+    }
+  ],
+  "captions": {
+    "enabled": true,
+    "fontFamily": "Inter",
+    "fontSize": 24,
+    "fontWeight": "bold",
+    "textColor": "#FFFFFF",
+    "highlightColor": "#14B8A6",
+    "backgroundColor": "rgba(0, 0, 0, 0.6)",
+    "position": "bottom",
+    "yOffsetPercent": 75,
+    "wordsPerBatch": 4,
+    "highlightStyle": "glow",
+    "showAnimation": true
+  },
+  "crop": {
+    "aspectRatio": "9:16",
+    "mode": "auto_face",
+    "xPercent": 30,
+    "yPercent": 44,
+    "zoom": 1.0,
+    "faceDetected": true,
+    "faceConfidence": 1.0
+  },
+  "titleCard": {
+    "enabled": true,
+    "title": "ReelCut Highlight",
+    "subtitle": "AI-Assisted Short Edit",
+    "durationSeconds": 2.0,
+    "style": "gradient",
+    "textColor": "#FFFFFF",
+    "accentColor": "#14B8A6"
+  },
+  "audio": {
+    "fadeInSeconds": 0.5,
+    "fadeOutSeconds": 0.8,
+    "normalize": true,
+    "reduceNoise": true
+  },
+  "renderJob": null
+}

@@ -1,0 +1,42 @@
+# Secrets & Environment
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+
+# macOS & Filesystem Artifacts
+.DS_Store
+._*
+**/._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# Dependencies & Environments
+node_modules/
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Build Outputs & Cache
+dist/
+build/
+out/
+.cache/
+.next/
+*.tsbuildinfo
+
+# IDE & Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large Artifacts & Releases
+*.zip
+*.tar.gz

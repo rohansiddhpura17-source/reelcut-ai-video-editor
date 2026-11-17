@@ -1,0 +1,16 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+python-multipart>=0.0.9
+aiofiles>=23.2.1
+imageio-ffmpeg>=0.4.9
+requests>=2.31.0
+# Real speech recognition (Whisper) + real face detection (OpenCV Haar).
+# Pins are deliberate and verified 2026-11-11 in the VM:
+# - faster-whisper 1.2.1 breaks with av >= 14 (av.open metadata_errors kwarg
+#   removed), so av is pinned to 13.1.0.
+# - opencv-python-headless 5.x removed cv2.CascadeClassifier, so 4.10.0.84
+#   is pinned (last 4.x with the Haar cascade API).
+faster-whisper==1.2.1
+av==13.1.0
+opencv-python-headless==4.10.0.84
